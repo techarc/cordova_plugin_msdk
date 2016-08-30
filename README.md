@@ -1,0 +1,1 @@
+# MSDK Cordova plugin
